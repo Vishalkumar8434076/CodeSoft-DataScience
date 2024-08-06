@@ -42,9 +42,3 @@ The following important libraries were used for this project:
 2. The predicted results were printed using __log.predict(X_test)__.
 3. The actual target values in the test set were printed using __Y_test__.
 4. A sample prediction was made using __log.predict([[2, 1]])__ with Pclass=2 and Sex=Male (1)
-
-
-
-
-
-[README (1).md](https://github.com/user-attachments/files/16504980/README.1.md)
